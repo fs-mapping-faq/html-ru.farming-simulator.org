@@ -1,3 +1,3 @@
-# html-farming-simulator.org
+# html-ru.farming-simulator.org
 
-PMC [Farming Simulator](https://www.farming-simulator.org) website
+PMC [Farming Simulator](https://www.farming-simulator.org) website (Перевод/Translate to Russian)
